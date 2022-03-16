@@ -1,5 +1,5 @@
 #guessing the words
-#import the random module, make a list to hold the words you are going to guessing
+#import the random module, make a list to hold the words you are going to be guessing
 #use a variable to hold each character. If word is a match you can keep guessing the letter.
 
 import random
